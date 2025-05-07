@@ -3,12 +3,24 @@
 ## 项目简介
 这是一个基于Vue2和SpringBoot的单词打卡平台，支持自定义词库和AI辅助学习功能。平台可以内嵌大模型进行智能学习，并支持导入自定义词库进行专门化的单词打卡训练。
 
+## 在线演示
+- 访问地址：http://114.55.2.32:999/
 ## 功能特点
 - [ ] 自定义词库导入
 - [ ] AI智能学习辅助
 - [ ] 单词打卡追踪
 - [ ] 学习进度统计
 - [ ] 个性化学习计划
+
+## 界面预览
+### 首页单词学习
+![首页预览](https://math-rag.oss-cn-hangzhou.aliyuncs.com/vue_project%20%E5%92%8C%E5%8F%A6%E5%A4%96%201%20%E4%B8%AA%E9%A1%B5%E9%9D%A2%20-%20%E4%B8%AA%E4%BA%BA%20-%20Microsoft%E2%80%8B%20Edge%202025_5_7%2022_48_30.png)
+
+### AI对话页面
+![单词学习](https://math-rag.oss-cn-hangzhou.aliyuncs.com/vue_project%20%E5%92%8C%E5%8F%A6%E5%A4%96%201%20%E4%B8%AA%E9%A1%B5%E9%9D%A2%20-%20%E4%B8%AA%E4%BA%BA%20-%20Microsoft%E2%80%8B%20Edge%202025_5_7%2022_48_40.png)
+
+### AI访问
+![学习统计](https://math-rag.oss-cn-hangzhou.aliyuncs.com/vue_project%20%E5%92%8C%E5%8F%A6%E5%A4%96%201%20%E4%B8%AA%E9%A1%B5%E9%9D%A2%20-%20%E4%B8%AA%E4%BA%BA%20-%20Microsoft%E2%80%8B%20Edge%202025_5_7%2022_48_43.png)
 
 ## 技术栈
 ### 前端
